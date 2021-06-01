@@ -1,5 +1,5 @@
 
-# ![alt text](https://github.com/[Scott-Natter]/[ColorRunner]/blob/[master]/ColorRunnerTitleClear.png?raw=true "Color Runner")
+# ![alt text](https://github.com/[Scott-Natter]/[ColorRunner]/blob/[main]/ColorRunnerTitleClear.png?raw=true "Color Runner")
 
 ## About
 - [See the Trailer on YouTube!]() (FIXME)
