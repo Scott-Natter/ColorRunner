@@ -1,6 +1,7 @@
-
-# ![alt text](https://github.com/[Scott-Natter]/[ColorRunner]/blob/[main]/ColorRunnerTitleClear.png?raw=true "Color Runner")
-
+<p align=center>
+  <img src="https://github.com/Scott-Natter/ColorRunner/blob/main/ColorRunnerTitleClear.png" "Color Runner"/>
+</p>
+  
 ## About
 - [See the Trailer on YouTube!]() (FIXME)
 - A `CS-342` Experimental Games Development class project
